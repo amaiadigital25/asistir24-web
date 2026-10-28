@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asistir24.com.ar/sitemap.xml
